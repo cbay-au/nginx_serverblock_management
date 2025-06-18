@@ -29,8 +29,8 @@ A comprehensive bash script for managing Nginx server blocks on a Digital Ocean 
 
 1. Download the scripts to your server:
 ```bash
-wget https://raw.githubusercontent.com//cbay-au/openhands_delete/refs/heads/main/nginx_manager.sh
-wget https://raw.githubusercontent.com/cbay-au/openhands_delete/refs/heads/main/nginx_server_manager.sh
+wget https://raw.githubusercontent.com//cbay-au/nginx_serverblock_management/refs/heads/main/nginx_manager.sh
+wget https://raw.githubusercontent.com/cbay-au/nginx_serverblock_management/refs/heads/main/nginx_server_manager.sh
 ```
 
 2. Make the scripts executable:
