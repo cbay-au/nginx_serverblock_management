@@ -11,9 +11,13 @@ chmod +x install.sh
 chmod +x demo.sh
 chmod +x test_script.sh
 ```
-Run using
-``` ./nginx_manager.sh ```
 
+Once you have the local repository set up:
+
+- For installation: Run `sudo ./install.sh`
+- For usage: Run `./nginx_manager.sh`
+- For demo: Run `./demo.sh`
+- For testing: Run `./test_script.sh`
 
 
 ## Features
