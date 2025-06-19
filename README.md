@@ -2,6 +2,20 @@
 
 A comprehensive bash script for managing Nginx server blocks on a Digital Ocean VPS or any Linux server running Nginx.
 
+After git clone into local repo make sure permissions are setup vis:-
+
+```
+chmod +x nginx_manager.sh
+chmod +x nginx_server_manager.sh
+chmod +x install.sh
+chmod +x demo.sh
+chmod +x test_script.sh
+```
+Run using
+``` ./nginx_manager.sh ```
+
+
+
 ## Features
 
 - **List existing server blocks**: View all configured domain names
